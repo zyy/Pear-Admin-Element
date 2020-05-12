@@ -1,31 +1,15 @@
 # Pear Admin Element
 
 #### 介绍
-基于 vue-admin-template 前端项目
+Pear Admin Element 基于 vue-admin-template 前端项目
 
 #### 软件架构
 软件架构说明
 
+项目截图
 
-#### 安装教程
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0512/134001_1c7bb3f9_4835367.png "CP95N17J23WR21051W7E9DV.png")
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0512/134010_dcc65311_4835367.png "(M]NCAZN@J@CUF(%L`20ZRX.png")
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0512/134035_70efc836_4835367.png "S_(5@DXV}6IF`60@EU255~5.png")
