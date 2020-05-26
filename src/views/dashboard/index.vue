@@ -1,20 +1,43 @@
 <template>
   <div class="dashboard-container">
-    <div class="dashboard-text">Pear Admin Vue</div>
+    <div class="dashboard-text">
+      <el-row :gutter="20">
+        <el-col :span="6">
+          <div class="grid-content bg-purple">
+            <el-card class="box-card"></el-card>
+          </div>
+        </el-col>
+        <el-col :span="6">
+          <div class="grid-content bg-purple">
+            <el-card class="box-card"></el-card>
+          </div>
+        </el-col>
+        <el-col :span="6">
+          <div class="grid-content bg-purple">
+            <el-card class="box-card"></el-card>
+          </div>
+        </el-col>
+        <el-col :span="6">
+          <div class="grid-content bg-purple">
+            <el-card class="box-card"></el-card>
+          </div>
+        </el-col>
+    
+      </el-row>
+     
+    </div>
   </div>
 </template>
 
 <script>
-import { mapGetters } from 'vuex'
+import { mapGetters } from "vuex";
 
 export default {
-  name: 'Dashboard',
+  name: "Dashboard",
   computed: {
-    ...mapGetters([
-      'name'
-    ])
+    ...mapGetters(["name"])
   }
-}
+};
 </script>
 
 <style lang="scss" scoped>
