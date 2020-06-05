@@ -11,6 +11,8 @@ Pear Admin Element 基于 vue-admin-template 前端项目
 
 项目截图
 
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0606/012808_2981e18e_4835367.png "vue 截图展示.png")
+
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0512/134001_1c7bb3f9_4835367.png "CP95N17J23WR21051W7E9DV.png")
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0512/134010_dcc65311_4835367.png "(M]NCAZN@J@CUF(%L`20ZRX.png")
