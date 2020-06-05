@@ -22,9 +22,31 @@
             <el-card class="box-card"></el-card>
           </div>
         </el-col>
-    
       </el-row>
-     
+      <el-row :gutter="20">
+        <el-col :span="18">
+          <div class="grid-content bg-purple">
+            <el-card class="box-card"></el-card>
+          </div>
+        </el-col>
+        <el-col :span="6">
+          <div class="grid-content bg-purple">
+            <el-card class="box-card"></el-card>
+          </div>
+        </el-col>
+      </el-row>
+      <el-row :gutter="20">
+        <el-col :span="18">
+          <div class="grid-content bg-purple">
+            <el-card class="box-card"></el-card>
+          </div>
+        </el-col>
+        <el-col :span="6">
+          <div class="grid-content bg-purple">
+            <el-card class="box-card"></el-card>
+          </div>
+        </el-col>
+      </el-row>
     </div>
   </div>
 </template>
@@ -42,12 +64,17 @@ export default {
 
 <style lang="scss" scoped>
 .dashboard {
+
   &-container {
-    margin: 30px;
+    margin: 20px;
   }
   &-text {
     font-size: 30px;
     line-height: 46px;
   }
+}
+
+.el-row{
+  margin-bottom: 15px;
 }
 </style>

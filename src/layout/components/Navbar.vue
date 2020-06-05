@@ -7,25 +7,7 @@
     />
     <div class="right-menu">
       <div class="right-menu-item">
-         <el-dropdown class="avatar-container right-menu-item hover-effect" trigger="click">
-        <div class="avatar-wrapper">
-          <img :src="avatar+'?imageView2/1/w/80/h/80'" class="user-avatar">
-        </div>
-        <el-dropdown-menu slot="dropdown">
-          <router-link to="/profile/index">
-            <el-dropdown-item>个人信息</el-dropdown-item>
-          </router-link>
-          <router-link to="/">
-            <el-dropdown-item>安全配置</el-dropdown-item>
-          </router-link>
-          <a target="_blank" href="https://github.com/PanJiaChen/vue-element-admin/">
-            <el-dropdown-item>代码下载</el-dropdown-item>
-          </a>
-          <el-dropdown-item divided @click.native="logout">
-            <span style="display:block;">注销登录</span>
-          </el-dropdown-item>
-        </el-dropdown-menu>
-      </el-dropdown>
+        <router-link class="right-menu-item" to="/profile/index">官方文档</router-link>
       </div>
     </div>    
   </div>
