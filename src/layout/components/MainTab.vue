@@ -80,6 +80,7 @@ export default {
 .el-tabs__header{
     border: none!important;
     border-bottom: whitesmoke solid 1px!important;
+    background-color: white;
 
 }
 .el-tabs--card > .el-tabs__header .el-tabs__item{
