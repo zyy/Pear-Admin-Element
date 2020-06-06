@@ -6,6 +6,9 @@
       @toggleClick="toggleSideBar"
     />
     <div class="right-menu">
+       <div class="right-menu-item">
+        <router-link class="right-menu-item" to="/profile/index"><i class="el-icon-view"></i></router-link>
+      </div>
       <div class="right-menu-item">
         <router-link class="right-menu-item" to="/profile/index">官方文档</router-link>
       </div>
@@ -71,6 +74,7 @@ export default {
     .right-menu-item {
       display: inline-block;
       padding: 0 5px;
+      padding-right: 20px;
       height: 100%;
       font-size: 16px;
       color: #5a5e66;
