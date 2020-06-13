@@ -91,7 +91,7 @@ export const constantRoutes = [
     component: Layout,
     children: [
       {
-        path: 'https://gitee.com/Jmysy/#/',
+        path: 'http://www.pearadmin.cn',
         meta: { title: '官方地址', icon: 'link' }
       }
     ]
